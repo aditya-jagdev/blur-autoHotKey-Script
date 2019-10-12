@@ -4,7 +4,7 @@ A small script I made for players to use their desired controls with the game
 ## How to use
 1. Install the latest version of AutoHotKey (https://www.autohotkey.com/)
   * Version used 1.1.31.00 used, others should work fine as well
-2. Copy the audio clips (Used for audio feedback) to the root of your C: drive.
+2. Copy the audio clips (Used for audio feedback) to the root of your C: drive and download the script to anywhere on your drive.
   * The file paths should look like
     * C:\Sounds\Off.wav
     * C:\Sounds\On.wav
