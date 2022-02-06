@@ -24,10 +24,10 @@ Works with Blur keyboard layout 2.
 * SteerLeft `Left`
 * SteerRight `Right`
 * EBrake `Space`
-* Camera `V`
+* Camera `C`
 * LookBack `Z`
-* UsePower `A`
-* SwitchPower `D`
+* UsePower `X`
+* SwitchPower `A`
 * FireFront `W`
 * FireBack `S`
 * DropPower `F`
