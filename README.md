@@ -1,34 +1,33 @@
-# blur-autoHotKey-Script
-A small script I made for players to use their desired controls with the game
+# blur-custom-controls
+Blur does not allow you to change the keybinds. I made this to get around that.
+Works with Blur keyboard layout 2.
 
-## How to use
-1. Install the latest version of AutoHotKey (https://www.autohotkey.com/)
-  * Version used 1.1.31.00 used, others should work fine as well
-2. Copy the audio clips (Used for audio feedback) to the root of your C: drive and download the script to anywhere on your drive.
-  * The file paths should look like
-    * C:\Sounds\Off.wav
-    * C:\Sounds\On.wav
-3. Start the given script as administrator
-  * Not starting it as the administrator may render AHK unable to detect keypress when playing in fullscreen.
-4. Press Control+K to activate/deactivate the script.
-5. Make sure you have the ingame Blur keyboard layout 2 selected.
+## How do I use this?
+1. Install the latest version of AutoHotKey (https://www.autohotkey.com/).
+  * Tested with `v1.1.33.10`
+2. Run the script directly (NOT RECOMMENDED), or right click, compile, and run the generated `.exe` file (RECOMMENDED).
+4. The script is `ON` by default. Press `F5` to toggle it.
 
-## Changing the keymapping
-* If you do not like the given keymapping, you can change it by opening the AHK script file and editing lines 23 through 35 in the script.
+## I want to use a different set of bindings!
+* Modify the keybinds to your liking by editing the `.ahk` file.
 
-## Default Mapping
-```
-Toggle = ^K
-Accelerate = Up
-Brake = Down
-SteerLeft = Left
-SteerRight = Right
-;EBrake = Space
-Camera = V
-LookBack = Z
-UsePower = A
-SwitchPower = D
-FireFront = W
-FireBack = S
-DropPower = F
-```
+## I need more help.
+* Please open an issue. I'll get back to you within a week.
+
+---
+
+## Default Keybinds
+
+* Toggle `F5`
+* Accelerate `Up`
+* Brake `Down`
+* SteerLeft `Left`
+* SteerRight `Right`
+* EBrake `Space`
+* Camera `V`
+* LookBack `Z`
+* UsePower `A`
+* SwitchPower `D`
+* FireFront `W`
+* FireBack `S`
+* DropPower `F`
