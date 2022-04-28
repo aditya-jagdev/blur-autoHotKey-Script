@@ -1,6 +1,6 @@
 # blur-custom-controls
 Blur does not allow you to change the keybinds. I made this to get around that.
-Works with Blur keyboard layout 2.
+Use with Blur keyboard layout 2.
 
 ## How do I use this?
 0. Download this tool by clicking the green `Code` button and click `Download ZIP`. Extract the files anywhere you want.
